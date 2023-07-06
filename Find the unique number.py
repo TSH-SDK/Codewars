@@ -1,3 +1,6 @@
+# I forgot about task's text
+# There was said that array contained at least 3 numbers and there was one different number in any array
+
 def find_uniq(arr):
     s_arr = sorted(arr)
     if s_arr[0] != s_arr[1]:
